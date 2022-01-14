@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.roman{
+	list-style-type: upper-roman;
+}
+
+.letters{
+	list-style-type: lower-alpha;
+}
+
+.whitedot{
+	
+	list-style-type: circle;
+}
